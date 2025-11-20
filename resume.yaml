@@ -66,13 +66,15 @@ cv:
     education:
       - institution: "Amity University"
         location: "Noida, India"
-        area: "B.Tech in Computer Science"
+        degree: "B.Tech"
+        area: "Computer Science"
         start_date: "2017-05"
         end_date: "2021-05"
         
       - institution: "G.S. Jangid Memorial School"
         location: "Jodhpur, Rajasthan"
-        area: "Higher Secondary Education"
+        degree: "Higher Secondary"
+        area: "Science"
         start_date: "2015-07"
         end_date: "2016-04"
         highlights:
@@ -81,7 +83,8 @@ cv:
 
       - institution: "St. Paul School"
         location: "Barmer, Rajasthan"
-        area: "High School"
+        degree: "High School Diploma"
+        area: "General Education"
         start_date: "2013-07"
         end_date: "2014-04"
         highlights:
@@ -89,11 +92,15 @@ cv:
 
     personal_projects:
       - name: "Face Recognition using CNN"
+        date: "2020-06"
+        show_on_resume: true
         highlights:
           - "Developed face recognition of 2-D objects using libraries such as **DLib**, **OpenCV**, **Keras**, and embedded vectors"
           - "Achieved project accuracy close to **95%** and successfully recognized objects in a short period of time"
       
       - name: "Mad Libs Game"
+        date: "2020-01"
+        show_on_resume: true
         highlights:
           - "Developed a browser-based game using **HTML** and **PHP** for server-side processing"
           - "Implemented GET functions to access user input and dynamically modify sentence structures"
