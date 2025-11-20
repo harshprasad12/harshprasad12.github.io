@@ -4,11 +4,13 @@ cv:
   email: "harshprasadwork@gmail.com"
   phone: "tel:+91-7232850492"
   
-  # No social networks were explicitly listed in the parsed text, 
-  # but the section is kept available for manual addition.
   social_networks:
-    - network: "LinkedIn"
-      username: "harshprasad12"
+    - network: "LinkedIn"
+      username: "harshprasad12"
+      profile_url: "https://linkedin.com/in/harshprasad12"
+    - network: "GitHub"
+      username: "harshprasad12"
+      profile_url: "https://github.com/harshprasad12"
 
   sections:
     intro:
