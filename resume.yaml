@@ -1,0 +1,101 @@
+cv:
+  name: "Harsh Prasad"
+  location: "Gurgaon, India"
+  email: "harshprasadwork@gmail.com"
+  phone: "tel:+91-7232850492"
+  
+  # No social networks were explicitly listed in the parsed text, 
+  # but the section is kept available for manual addition.
+  social_networks:
+    - network: "LinkedIn"
+      username: "harshprasad12"
+
+  sections:
+    intro:
+      - "Software Engineer with excellent problem solving skills and ability to perform well in a team."
+      - "Passionate about coding, data engineering, and Generative AI solutions."
+
+    technologies:
+      - label: "Languages"
+        details: "Python, C++, C, SQL"
+      
+      - label: "AI & Machine Learning"
+        details: "Generative AI, LangChain, TensorFlow, Keras, PyTorch, scikit-learn, LLMs"
+
+      - label: "Web & Backend"
+        details: "FastAPI, Django, REST API, Microservices"
+
+      - label: "Data & Database"
+        details: "PostgreSQL, Pandas, NumPy, PowerBI, Data Structures"
+
+      - label: "DevOps & Tools"
+        details: "Docker, Kubernetes, Jira, Git"
+
+    experience:
+      - company: "Fiftyfive Technologies"
+        position: "Data Engineer"
+        location: "Gurgaon, India"
+        start_date: "2023-05"
+        highlights:
+          - "Led a team in developing a student-interactive chatbot, integrating Learn Dash to fetch response using student IDs and load course details"
+          - "Collaborated with cross-functional teams to enhance **LLM performance**, incorporating feedback and refining training datasets for improved factual accuracy"
+          - "Managed project timelines, provided mentorship, and ensured adherence to best practices in **AI model evaluation** and data processing"
+          - "Oversaw annotation and data curation processes, guiding the team to create clear and structured datasets for **LLM training** and continuous improvement"
+
+      - company: "Junio"
+        position: "Software Development Engineer"
+        location: "Delhi, India"
+        start_date: "2022-08"
+        end_date: "2022-11"
+        highlights:
+          - "Analyzed **LLM performance metrics** and incorporated feedback to optimize training data creation"
+          - "Designed structured prompts to improve LLM response generation and consistency using **FastAPI**"
+          - "Worked closely with AI researchers and data scientists to refine data strategies based on LLM performance metrics"
+
+      - company: "DXC Technology"
+        position: "Associate Professional Software Engineer"
+        location: "Noida, Uttar Pradesh"
+        start_date: "2021-05"
+        end_date: "2022-07"
+        highlights:
+          - "Integrated transfer learning techniques to fine-tune **Foundational LLMs** on domain-specific data"
+          - "Implemented bias detection and mitigation strategies to enhance fairness and reduce unintended model biases"
+
+    education:
+      - institution: "Amity University"
+        location: "Noida, India"
+        area: "B.Tech in Computer Science"
+        start_date: "2017-05"
+        end_date: "2021-05"
+        
+      - institution: "G.S. Jangid Memorial School"
+        location: "Jodhpur, Rajasthan"
+        area: "Higher Secondary Education"
+        start_date: "2015-07"
+        end_date: "2016-04"
+        highlights:
+          - "CGPA: **8.06**"
+          - "Percentage: **76.40%**"
+
+      - institution: "St. Paul School"
+        location: "Barmer, Rajasthan"
+        area: "High School"
+        start_date: "2013-07"
+        end_date: "2014-04"
+        highlights:
+          - "CGPA: **9.4**"
+
+    personal_projects:
+      - name: "Face Recognition using CNN"
+        highlights:
+          - "Developed face recognition of 2-D objects using libraries such as **DLib**, **OpenCV**, **Keras**, and embedded vectors"
+          - "Achieved project accuracy close to **95%** and successfully recognized objects in a short period of time"
+      
+      - name: "Mad Libs Game"
+        highlights:
+          - "Developed a browser-based game using **HTML** and **PHP** for server-side processing"
+          - "Implemented GET functions to access user input and dynamically modify sentence structures"
+
+    interests:
+      - label: "Hobbies"
+        details: "Playing badminton, football, and reading books"
